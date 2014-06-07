@@ -1,0 +1,12 @@
+name: EasyTime
+author: RealJohn
+version: 1.5
+description: A Simple time switcher!
+main: com.github.odie8800.EasyTime.EasyTime
+commands:
+  time:
+    description: Sets the time!
+    usage: /time
+  t:
+    description: Sets the time!
+    usage: /t
